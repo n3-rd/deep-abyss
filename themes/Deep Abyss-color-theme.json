@@ -3,35 +3,35 @@
 	"colors": {
 		// editor
 		"editor.background": "#000000",
-		"editor.foreground": "#D2D2D2",
+		"editor.foreground": "#f5f3f3",
 		"activityBarBadge.background": "#000000",
-		"editorLineNumber.foreground": "#D2D2D2",
-		"editor.selectionBackground": "#D2D2D263",
-		"editor.wordHighlightBackground": "#D2D2D263",
+		"editorLineNumber.foreground": "#f5f3f3",
+		"editor.selectionBackground": "#f5f3f363",
+		"editor.wordHighlightBackground": "#f5f3f363",
 		"editor.findMatchBackground": "#07160b",
 		// buttons
 		"button.background": "#1a1a1a",
-		"button.foreground": "#D2D2D2",
+		"button.foreground": "#f5f3f3",
 		// sidebar
-		"sideBarTitle.foreground": "#D2D2D2",
+		"sideBarTitle.foreground": "#f5f3f3",
 		"sideBar.background": "#0e0e0e",
 		"sideBarSectionHeader.background": "#000000",
-		"sideBarSectionHeader.foreground": "#D2D2D2",
+		"sideBarSectionHeader.foreground": "#f5f3f3",
 		"sideBar.border": "#000000",
 		// activity bar
 		"activityBar.background": "#080808",
-		"activityBar.foreground": "#D2D2D2",
-		"activityBar.activeBorder": "#D2D2D2",
+		"activityBar.foreground": "#f5f3f3",
+		"activityBar.activeBorder": "#f5f3f3",
 		// sidebar files active
 		// list
 		"list.activeSelectionBackground": "#080808",
 		"list.focusAndSelectionOutline": "#686868",
 		"list.focusBackground": "#080808",
-		"list.focusForeground": "#D2D2D2",
+		"list.focusForeground": "#f5f3f3",
 		// contrast
 		"contrastActiveBorder": "#080808",
 		// editor group
-		"editorGroup.dropIntoPromptBorder": "#D2D2D2",
+		"editorGroup.dropIntoPromptBorder": "#f5f3f3",
 		"editorGroup.focusedEmptyBorder": "#000000",
 		// tab
 		"tab.inactiveBackground": "#1a1a1a",
@@ -39,9 +39,9 @@
 		"toolbar.activeBackground": "#1a1a1a",
 		// input
 		"input.background": "#1a1a1a",
-		"input.border": "#d2d2d263",
+		"input.border": "#f5f3f363",
 		// badge
-		"badge.background": "#D2D2D2",
+		"badge.background": "#1a1a1a",
 		// Widget
 		"editorWidget.border": "#000",
 		// focus border
