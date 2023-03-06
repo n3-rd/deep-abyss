@@ -2,6 +2,28 @@
   "name": "deep-abyss",
   "displayName": "Deep Abyss",
   "description": "A dark minimal color theme for VSCode",
+  "publisher": "n3-rd",
+  "keywords": [
+    "themes",
+    "dark",
+    "minimal",
+    "color-theme"
+  ],
+  "icon": "icons/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3-rd/deep-abyss.git"
+  },
+  "author": {
+    "name": "n3-rd",
+    "email": "godwinjdayo@gmail.com",
+    "url": "https://n3-rd.github.io/"
+  },
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
