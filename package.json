@@ -1,0 +1,21 @@
+{
+  "name": "deep-abyss",
+  "displayName": "Deep Abyss",
+  "description": "A dark minimal color theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deep Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deep Abyss-color-theme.json"
+      }
+    ]
+  }
+}
